@@ -5,4 +5,4 @@
 **xx.x.x.xx(IPアドレス)/submit.htmlにアクセス**
 
 応用サンプルページ
-http://nkn.webcrow.jp/php-test/ziken/
+http://nkn.webcrow.jp/php-test/ziken/2/submit.html
