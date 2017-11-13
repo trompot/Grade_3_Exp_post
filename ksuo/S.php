@@ -26,7 +26,7 @@
         $array2[$i] = $array2[$i] + $key;
     }
 
-    // int
+    // intからcharに変換
     for($i=0; $i<count($array2) -1; $i++){
         $decode_code .= chr($array2[$i]);
     }
